@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('assets/CS.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top: 10%;
+    
+    
+}
+.container{
+    background-color: cornsilk;
+}
+form{
+    padding: 0 3em;
+    
+}
+.dashboard{
+    background-color:dimgray;
+}
